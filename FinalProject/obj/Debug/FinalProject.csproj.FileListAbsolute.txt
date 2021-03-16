@@ -1,0 +1,7 @@
+C:\Users\evand\source\repos\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\evand\source\repos\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\evand\source\repos\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\evand\source\repos\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\evand\source\repos\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\evand\source\repos\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\evand\source\repos\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
